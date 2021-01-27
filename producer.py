@@ -4,7 +4,7 @@ from creds import *
 consumer_key = c_consumer_key
 consumer_secret = c_consumer_secret
 access_token = c_access_token
-access_token_secret = _access_token_secret
+access_token_secret = c_access_token_secret
 
 
 from tweepy.streaming import StreamListener
