@@ -1,3 +1,5 @@
+"""CONVERT SPOTIFY DATA TO TOPIC"""
+
 def convert_to_topic(i):
 	#take out non ascii characters
 	i = i.encode('ascii',errors='ignore')
