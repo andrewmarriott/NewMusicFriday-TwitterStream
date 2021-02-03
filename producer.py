@@ -1,3 +1,4 @@
+'''Twitter API Access Keys'''
 
 from creds import *
 consumer_key = c_consumer_key
